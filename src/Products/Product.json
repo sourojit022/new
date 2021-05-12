@@ -1,0 +1,172 @@
+{"products":
+    
+    [
+        {"id":"1",
+"title":"Laptop",                                                          
+"description":"intel",
+"image":"../../../../images/laptop.jpg",
+"brands":[
+{"id":"A",
+ "stitle":"HP",
+ "sdescription":"i5",
+ "image":"../../../../images/hp L.jif",
+ "price":35000
+},
+{"id":"B",
+ "stitle":"Dell",
+ "sdescription":"i7",
+ "image":"../../../../images/dell L.jif",
+ "price":50000
+},
+{"id":"C",
+ "stitle":"Apple",
+ "sdescription":"MacOS",
+ "image":"../../../../images/apple L.jpg",
+ "price":77000
+}
+
+
+
+]
+
+},
+
+  {"id":"2",
+    "title":"Mobile",
+    "description":"8gb ram,48mp c",
+    "image":"../../../../images/mobile.jpg",
+    "brands":[
+    {"id":"A",
+     "stitle":"Nokia",
+     "sdescription":"Stock Android",
+     "image":"../../../../images/Nokia.jpg",
+     "price": 12000
+    },
+    {"id":"B",
+     "stitle":"MI",
+     "sdescription":"snapdragon",
+     "image":"../../../../images/MI.jpg",
+     "price":8000
+    },
+    {"id":"C",
+     "stitle":"Apple",
+     "sdescription":"IOS",
+     "image":"../../../../images/apple.jpg",
+     "price":45000
+    }
+    
+   ]
+    
+   },
+  {"id":"3",
+    "title":"Mouse",
+    "description":"wireless,wired,rgb,gaming",
+    "image":"../../../../images/mouse.jif",
+    "brands":[
+    {"id":"A",
+     "stitle":"Dragonware",
+     "sdescription":"rgb",
+     "image":"../../../../images/dw.jpg",
+     "price": 2000
+    },
+    {"id":"B",
+     "stitle":"realme",
+     "sdescription":"smart Mouse",
+     "image":"../../../../images/mim.jpg",
+     "price":800
+    },
+    {"id":"C",
+     "stitle":"Apple",
+     "sdescription":"wireless",
+     "image":"../../../../images/applem.jif",
+     "price":4500
+    }
+    
+   ]
+    
+   },
+  {"id":"4",
+    "title":"keyboard",
+    "description":"wireless,wired,rgb,gaming",
+    "image":"../../../../images/key.jpg",
+    "brands":[
+    {"id":"A",
+     "stitle":"logitech",
+     "sdescription":"wired",
+     "image":"../../../../images/logik.jif",
+     "price": 500
+    },
+    {"id":"B",
+     "stitle":"HP",
+     "sdescription":"wireless",
+     "image":"../../../../images/hpk.jif",
+     "price":800
+    },
+    {"id":"C",
+     "stitle":"Apple",
+     "sdescription":"backled",
+     "image":"../../../../images/applek.jif",
+     "price":5004
+    }
+    
+   ]
+    
+   },
+  {"id":"5",
+    "title":"Headphone",
+    "description":"wirelessaa,wired,NFC",
+    "image":"../../../../images/headphone.jif",
+    "brands":[
+    {"id":"A",
+     "stitle":"Boat",
+     "sdescription":"wried",
+     "image":"../../../../images/boath.jif",
+     "price": 1000
+    },
+    {"id":"B",
+     "stitle":"Mi",
+     "sdescription":"wireless",
+     "image":"../../../../images/mih.jpg",
+     "price":800
+    },
+    {"id":"C",
+     "stitle":"Apple",
+     "sdescription":"NFC",
+     "image":"../../../../images/appleh.jif",
+     "price":4500
+    }
+    
+   ]
+    
+   },
+  {"id":"6",
+    "title":"Powerbank",
+    "description":"5000mH,10000mH,20000mh",
+    "image":"../../../../images/power.JIF",
+    "brands":[
+    {"id":"A",
+     "stitle":"realme",
+     "sdescription":"10000mH",
+     "image":"../../../../images/realmep.jif",
+     "price": 999
+    },
+    {"id":"B",
+     "stitle":"Mi",
+     "sdescription":"20000mH",
+     "image":"../../../../images/mip.jif",
+     "price":1499
+    },
+    {"id":"C",
+     "stitle":"flipcartsmartbuy",
+     "sdescription":"5000mH",
+     "image":"../../../../images/fcp.jif",
+     "price":499
+    }
+    
+   ]
+    
+   }
+    ]
+}
+
+
